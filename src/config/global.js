@@ -242,14 +242,156 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acción correctiva',
+      significado:
+        'medida establecida para eliminar la causa de una no conformidad y evitar su repetición.',
+    },
+    {
+      termino: 'Acción preventiva',
+      significado:
+        'medida destinada a evitar la ocurrencia de una posible desviación o situación de riesgo.',
+    },
+    {
+      termino: 'Causa',
+      significado:
+        'factor o condición que contribuye a la aparición de una desviación, problema o no conformidad.',
+    },
+    {
+      termino: 'Causa raíz',
+      significado:
+        'causa fundamental que origina una no conformidad o problema identificado en la unidad productiva.',
+    },
+    {
+      termino: 'Contingencia',
+      significado:
+        'situación inesperada que puede afectar la sanidad, el bienestar animal o la continuidad de los procesos productivos.',
+    },
+    {
+      termino: 'Control de procesos',
+      significado:
+        'actividades destinadas a verificar que los procedimientos productivos se desarrollen conforme a los requisitos establecidos.',
+    },
+    {
+      termino: 'Eficacia',
+      significado:
+        'capacidad de una acción implementada para alcanzar el resultado esperado y solucionar la situación identificada.',
+    },
+    {
+      termino: 'Evaluación',
+      significado:
+        'proceso sistemático de revisión de condiciones, procedimientos y evidencias para determinar el nivel de cumplimiento.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'variable cuantificable utilizada para medir el cumplimiento, desempeño o resultado de un proceso.',
+    },
+    {
+      termino: 'Inspección',
+      significado:
+        'revisión directa y sistemática de instalaciones, animales, equipos, procedimientos y registros.',
+    },
+    {
+      termino: 'Mejoramiento continuo',
+      significado:
+        'proceso permanente de identificación de problemas y aplicación de acciones para mejorar el desempeño de la unidad productiva.',
+    },
+    {
+      termino: 'No conformidad',
+      significado:
+        'incumplimiento de un requisito establecido en un procedimiento, criterio de evaluación o normativa aplicable.',
+    },
+    {
+      termino: 'Oportunidad de mejora',
+      significado:
+        'situación identificada que permite fortalecer un proceso, corregir una debilidad o mejorar sus resultados.',
+    },
+    {
+      termino: 'Plan de mejora',
+      significado:
+        'documento que establece las acciones, responsables, recursos, tiempos e indicadores necesarios para corregir y mejorar los procesos.',
+    },
+    {
+      termino: 'Verificación',
+      significado:
+        'comprobación mediante evidencias de que una actividad, requisito o acción establecida ha sido',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      termino: 'Acción correctiva',
+      significado:
+        'medida establecida para eliminar la causa de una no conformidad y evitar su repetición.',
+    },
+    {
+      termino: 'Acción preventiva',
+      significado:
+        'medida destinada a evitar la ocurrencia de una posible desviación o situación de riesgo.',
+    },
+    {
+      termino: 'Causa',
+      significado:
+        'factor o condición que contribuye a la aparición de una desviación, problema o no conformidad.',
+    },
+    {
+      termino: 'Causa raíz',
+      significado:
+        'causa fundamental que origina una no conformidad o problema identificado en la unidad productiva.',
+    },
+    {
+      termino: 'Contingencia',
+      significado:
+        'situación inesperada que puede afectar la sanidad, el bienestar animal o la continuidad de los procesos productivos.',
+    },
+    {
+      termino: 'Control de procesos',
+      significado:
+        'actividades destinadas a verificar que los procedimientos productivos se desarrollen conforme a los requisitos establecidos.',
+    },
+    {
+      termino: 'Eficacia',
+      significado:
+        'capacidad de una acción implementada para alcanzar el resultado esperado y solucionar la situación identificada.',
+    },
+    {
+      termino: 'Evaluación',
+      significado:
+        'proceso sistemático de revisión de condiciones, procedimientos y evidencias para determinar el nivel de cumplimiento.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'variable cuantificable utilizada para medir el cumplimiento, desempeño o resultado de un proceso.',
+    },
+    {
+      termino: 'Inspección',
+      significado:
+        'revisión directa y sistemática de instalaciones, animales, equipos, procedimientos y registros.',
+    },
+    {
+      termino: 'Mejoramiento continuo',
+      significado:
+        'proceso permanente de identificación de problemas y aplicación de acciones para mejorar el desempeño de la unidad productiva.',
+    },
+    {
+      termino: 'No conformidad',
+      significado:
+        'incumplimiento de un requisito establecido en un procedimiento, criterio de evaluación o normativa aplicable.',
+    },
+    {
+      termino: 'Oportunidad de mejora',
+      significado:
+        'situación identificada que permite fortalecer un proceso, corregir una debilidad o mejorar sus resultados.',
+    },
+    {
+      termino: 'Plan de mejora',
+      significado:
+        'documento que establece las acciones, responsables, recursos, tiempos e indicadores necesarios para corregir y mejorar los procesos.',
+    },
+    {
+      termino: 'Verificación',
+      significado:
+        'comprobación mediante evidencias de que una actividad, requisito o acción establecida ha sido cumplida.',
     },
   ],
   creditos: [
@@ -258,13 +400,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
@@ -272,9 +410,22 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan José Calderón Gutierrez',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -282,37 +433,44 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
-          cargo: 'Diseñador de contenidos digitales',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
-          nombre: '',
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-      ],
-    },
-    {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [
-        {
-          nombre: '',
-          cargo: 'Validador de recursos educativos digitales',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
