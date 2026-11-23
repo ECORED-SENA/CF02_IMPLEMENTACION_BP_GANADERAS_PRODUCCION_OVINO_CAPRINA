@@ -9,7 +9,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .caja-1.color-2(data-aos="fade-right").mb-3
-            p.mb-0 Las #[b no conformidades] son incumplimientos comprobados de requisitos aplicables. Su tratamiento protege primero a los animales, a las personas y la inocuidad, y después interviene las causas para evitar que se repitan. Para responder de manera coherente se distinguen tres tipos de medidas, cuya diferencia se explica a continuación con un mismo caso de la unidad productiva.
+            p.mb-0 Las #[b no conformidades] son incumplimientos comprobados de requisitos aplicables. Su tratamiento protege primero a los animales, a las personas y la inocuidad, y después interviene las causas para evitar que se repitan. Para responder de manera coherente, se distinguen tres tipos de medidas, cuya diferencia se explica a continuación con un mismo caso de la unidad productiva.
           p.mb-0 Durante la inspección de la bodega se encontró un lote de concentrado con moho. La revisión mostró que una gotera en el techo, activa desde el inicio de las lluvias, caía sobre los bultos, y que estos estaban apoyados directamente sobre el piso, sin estibas.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
@@ -78,7 +78,7 @@
       Separador
       #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.3 Identificación y clasificación de no conformidades
-      p.mb-5 Para identificar una no conformidad se requieren un requisito aplicable y una evidencia de su incumplimiento. Un indicador desfavorable o una impresión del evaluador orientan la investigación, pero no constituyen una no conformidad por sí solos. Su redacción debe ser precisa, verificable y libre de juicios personales, como muestran los ejemplos de la siguiente tabla:
+      p.mb-5 Para identificar una no conformidad, se requieren un requisito aplicable y una evidencia de su incumplimiento. Un indicador desfavorable o una impresión del evaluador orientan la investigación, pero no constituyen una no conformidad por sí solos. Su redacción debe ser precisa, verificable y libre de juicios personales, como muestran los ejemplos de la siguiente tabla:
       .bg-1
         .px-5
           .row.justify-content-center.mb-5
@@ -95,16 +95,16 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold El personal es descuidado con los medicamentos
-                      td.texto-left En tres de diez registros de tratamientos revisados (julio a septiembre) no se identifica el tiempo de retiro del producto aplicado
+                      td.texto-left En tres de diez registros de tratamientos revisados (julio a septiembre) no se identifica el tiempo de retiro del producto aplicado.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold La bodega está en mal estado
-                      td.texto-left En la bodega de concentrado, un lote de doce bultos presenta moho en la zona ubicada bajo una gotera activa del techo; los bultos están apoyados directamente sobre el piso
+                      td.texto-left En la bodega de concentrado, un lote de doce bultos presenta moho en la zona ubicada bajo una gotera activa del techo; los bultos están apoyados directamente sobre el piso.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Los bebederos están sucios
-                      td.texto-left Cuatro de los seis bebederos del corral de cabras presentan materia orgánica acumulada en el fondo, aunque el registro de limpieza indica limpieza diaria
+                      td.texto-left Cuatro de los seis bebederos del corral de cabras presentan materia orgánica acumulada en el fondo, aunque el registro de limpieza indica limpieza diaria.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Hay muchas ovejas cojas
-                      td.texto-left Nueve de las sesenta ovejas del lote 2 (15 %) presentan cojera en la observación del 28 de septiembre, frente a cuatro (6,7 %) en el diagnóstico inicial
+                      td.texto-left Nueve de las sesenta ovejas del lote 2 (15 %) presentan cojera en la observación del 28 de septiembre, frente a cuatro (6,7 %) en el diagnóstico inicial.
           .caja-2(data-aos="zoom-in").mb-5
             .row.align-items-center
               .col-xl-auto

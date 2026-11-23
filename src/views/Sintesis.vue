@@ -6,7 +6,7 @@
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="")
+            img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre evaluación y mejoramiento de las BPG, organizado en cinco componentes: evaluación, seguimiento, contingencias, plan de mejora y no conformidades, con criterios, indicadores, acciones de respuesta, mejora continua y medidas correctivas y preventivas. ")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono

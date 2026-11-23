@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Evaluación de las Buenas Prácticas Ganaderas en la producción ovino-caprina
+        h1 Evaluación de las buenas prácticas ganaderas en la producción ovino-caprina
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .caja-1.color-1(data-aos="fade-right")
@@ -193,7 +193,7 @@
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.3 Inspección de procesos
-      p.mb-5 A continuación, se presenta un podcast sobre la inspección como herramienta para evaluar las Buenas Prácticas Ganaderas. A lo largo del recurso se explican los aspectos que deben observarse durante el recorrido por el predio y la manera en que las entrevistas al personal complementan la verificación de los procedimientos implementados.
+      p.mb-5 A continuación, se presenta un podcast sobre la inspección como herramienta para evaluar las buenas prácticas ganaderas. A lo largo del recurso se explican los aspectos que deben observarse durante el recorrido por el predio y la manera en que las entrevistas al personal complementan la verificación de los procedimientos implementados.
       .row.align-items-center.m-0.mb-5
         .col-xl
           .row.align-items-center.justify-content-center.caja-4(data-aos="zoom-in")
@@ -203,7 +203,7 @@
             .col
               h4.mb-4 Pódcast
               TarjetaAudio.color-acento-contenido.mb-4(
-                  texto="&quot;Inspección y verificación de las Buenas Prácticas Ganaderas&quot;"
+                  texto="&quot;Inspección y verificación de las buenas prácticas ganaderas&quot;"
                   :audio="audio1"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
@@ -324,7 +324,7 @@
                   img(src='@/assets/curso/temas/t1/img19.svg', alt='' style="max-width: 85px").m-auto
               .col-xl.mb-4.mb-lg-0
                 h4 Lista de chequeo para la evaluación de las BPG
-                p.mb-0 Los invitamos a consultar el anexo #[b Lista de chequeo didáctica para la evaluación de las Buenas Prácticas Ganaderas en la producción ovino-caprina]. Este recurso les permitirá verificar el cumplimiento de criterios relacionados con bioseguridad, instalaciones, medicamentos veterinarios, alimentación, bienestar animal, capacitación del personal, manejo ambiental y registros, a partir de la revisión de evidencias en la unidad productiva.
+                p.mb-0 Los invitamos a consultar el anexo #[b Lista de chequeo didáctica para la evaluación de las buenas prácticas ganaderas en la producción ovino-caprina]. Este recurso les permitirá verificar el cumplimiento de criterios relacionados con bioseguridad, instalaciones, medicamentos veterinarios, alimentación, bienestar animal, capacitación del personal, manejo ambiental y registros, a partir de la revisión de evidencias en la unidad productiva.
               .col-xl-2
                 a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_01_Lista_chequeo_BPG_ovino_caprino.pdf')" target="_blank" type="application/pdf")
                   span Descargar
@@ -399,7 +399,7 @@
                   .col-lg.fit___pasosA-left
                     h3 Paso 4. Concluir o registrar la incertidumbre
                     p.mb-0 Si la tercera fuente confirma una versión, se concluye con base en ella; si no es posible resolver la diferencia, se registra como evidencia insuficiente y se define cómo se verificará.
-      p.mb-0 Al revisar el registro de leche descartada en el caso, no aparece la leche de las dos cabras sin collar, lo que confirma la falla en la práctica. La conclusión, además, debe reconocer los #[b límites de la evaluación]. Se revisaron diez registros y no la totalidad, y el ordeño se observó un solo día; por ello, el informe indica que el resultado corresponde a la muestra revisada y recomienda verificar todos los tratamientos del último mes antes de dimensionar el alcance del problema.
+      p.mb-0 Al revisar el registro de leche descartada en el caso, no aparece la leche de las dos cabras sin collar, lo que confirma la falla en la práctica. La conclusión, además, debe reconocer los #[b límites de la evaluación]. Se revisaron diez registros y no la totalidad, y en el ordeño se observó un solo día; por ello, el informe indica que el resultado corresponde a la muestra revisada y recomienda verificar todos los tratamientos del último mes antes de dimensionar el alcance del problema.
 
 </template>
 

@@ -13,7 +13,7 @@
       figure(data-aos="zoom-in").mb-0
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Gestión de contingencias en las Buenas Prácticas Ganaderas
+        figcaption Video. Gestión de contingencias en las buenas prácticas ganaderas
       Separador
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.2 Identificación y priorización de riesgos
@@ -85,19 +85,19 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Decisiones inmediatas
-                      td.texto-left Activar la reserva del tanque elevado, priorizar a las cabras en lactancia y a las crías, y suspender la limpieza con agua a presión
+                      td.texto-left Activar la reserva del tanque elevado, priorizar a las cabras en lactancia y a las crías, y suspender la limpieza con agua a presión.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Responsables
                       td.texto-left El encargado de corrales confirma la falla y activa la reserva; el administrador decide el abastecimiento externo y contrata la reparación
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recursos
-                      td.texto-left Tanque de reserva, carrotanque del proveedor alterno, canecas limpias y bebederos provisionales
+                      td.texto-left Tanque de reserva, carrotanque del proveedor alterno, canecas limpias y bebederos provisionales.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Comunicación
-                      td.texto-left El encargado informa de inmediato al administrador; el administrador avisa al personal y, si la falla supera un día, al médico veterinario
+                      td.texto-left El encargado informa de inmediato al administrador; el administrador avisa al personal y, si la falla supera un día, al médico veterinario.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Condiciones para restablecer la operación
-                      td.texto-left La bomba funciona durante al menos un día sin fallas, el agua llega a todos los bebederos y los animales consumen con normalidad
+                      td.texto-left La bomba funciona durante al menos un día sin fallas, el agua llega a todos los bebederos y los animales consumen con normalidad.
           p.mb-5 Ante la #[b sospecha de contaminación del alimento], por ejemplo cuando se detecta moho en un lote de concentrado y varios animales disminuyen su consumo, la respuesta se organiza así:
           .row.justify-content-center.mb-5
             .col-xl-10
@@ -113,16 +113,16 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Decisiones inmediatas
-                      td.texto-left Suspender el lote sospechoso, separarlo e identificarlo para evitar su uso, y suministrar alimento de otro lote verificado
+                      td.texto-left Suspender el lote sospechoso, separarlo e identificarlo para evitar su uso, y suministrar alimento de otro lote verificado.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Responsables
-                      td.texto-left El encargado de la bodega suspende y separa el lote; el médico veterinario evalúa a los animales y decide si se requieren análisis
+                      td.texto-left El encargado de la bodega suspende y separa el lote; el médico veterinario evalúa a los animales y decide si se requieren análisis.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recursos
-                      td.texto-left Alimento de reemplazo, área de separación señalizada y recipientes para la toma de muestras
+                      td.texto-left Alimento de reemplazo, área de separación señalizada y recipientes para la toma de muestras.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Comunicación
-                      td.texto-left Se informa al administrador y al médico veterinario, y se notifica al proveedor con el número de lote y la fecha de entrega
+                      td.texto-left Se informa al administrador y al médico veterinario, y se notifica al proveedor con el número de lote y la fecha de entrega.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Condiciones para restablecer la operación
                       td.texto-left Alimento nuevo verificado en bodega, causa de la contaminación identificada y corregida, y animales afectados en seguimiento veterinario
@@ -130,7 +130,7 @@
           Separador
           #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2 3.4 Seguimiento y evaluación de la respuesta
-          p.mb-5 Después de la intervención inicial se comprueba si el evento está controlado y si aparecen consecuencias posteriores. El seguimiento se organiza en tres frentes, que se presentan a continuación:
+          p.mb-5 Después de la intervención inicial, se comprueba si el evento está controlado y si aparecen consecuencias posteriores. El seguimiento se organiza en tres frentes, que se presentan a continuación:
       TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
         .py-3.py-md-4(titulo="Animales")
           .row.justify-content-center.align-items-center

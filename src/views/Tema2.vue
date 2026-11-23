@@ -159,7 +159,7 @@
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     h5.mb-0 Metodología para evaluar el bienestar animal en ovinos y caprinos
-      p.mb-5 A partir de la interpretación de los indicadores se adopta una de las siguientes decisiones:
+      p.mb-5 A partir de la interpretación de los indicadores, se adopta una de las siguientes decisiones:
       .row.align-items-center.mb-0
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -194,24 +194,24 @@
               tbody
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Dato incompleto
-                  td.ajuste-border-tabla.texto-left Un tratamiento registrado sin identificación del animal
-                  td.ajuste-border-tabla.texto-left Impide saber qué animal está en retiro
-                  td.texto-left Completar con la fuente original (prescripción, entrevista) o registrar la ausencia; nunca inventar el dato
+                  td.ajuste-border-tabla.texto-left Un tratamiento registrado sin identificación del animal.
+                  td.ajuste-border-tabla.texto-left Impide saber qué animal está en retiro.
+                  td.texto-left Completar con la fuente original (prescripción, entrevista) o registrar la ausencia; nunca inventar el dato.
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Dato inconsistente
-                  td.ajuste-border-tabla.texto-left El inventario indica 60 ovejas y la suma por lotes da 62
-                  td.ajuste-border-tabla.texto-left Cualquier proporción calculada sobre el lote queda en duda
-                  td.texto-left Contar de nuevo los animales y corregir el registro con la fecha y la persona que corrige
+                  td.ajuste-border-tabla.texto-left El inventario indica 60 ovejas y la suma por lotes da 62.
+                  td.ajuste-border-tabla.texto-left Cualquier proporción calculada sobre el lote queda en duda.
+                  td.texto-left Contar de nuevo los animales y corregir el registro con la fecha y la persona que corrige.
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Dato duplicado
-                  td.ajuste-border-tabla.texto-left Una muerte anotada en el registro de mortalidad y otra vez en el registro sanitario como caso nuevo
-                  td.ajuste-border-tabla.texto-left Aumenta artificialmente la mortalidad o la incidencia
-                  td.texto-left Identificar el registro oficial de cada evento y eliminar el doble conteo en los cálculos
+                  td.ajuste-border-tabla.texto-left Una muerte anotada en el registro de mortalidad y otra vez en el registro sanitario como caso nuevo.
+                  td.ajuste-border-tabla.texto-left Aumenta artificialmente la mortalidad o la incidencia.
+                  td.texto-left Identificar el registro oficial de cada evento y eliminar el doble conteo en los cálculos.
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Dato tardío
-                  td.ajuste-border-tabla.texto-left Registros de limpieza diligenciados al final de la semana
-                  td.ajuste-border-tabla.texto-left El registro no demuestra la ejecución real
-                  td.texto-left Exigir el registro durante la actividad y tratar los datos tardíos como evidencia débil
+                  td.ajuste-border-tabla.texto-left Registros de limpieza diligenciados al final de la semana.
+                  td.ajuste-border-tabla.texto-left El registro no demuestra la ejecución real.
+                  td.texto-left Exigir el registro durante la actividad y tratar los datos tardíos como evidencia débil.
           p.mb-0 Cuando se detecta una falla en los datos, la conclusión que dependía de ellos se revisa. Si no es posible corregir la información, el resultado se presenta con su limitación; por ejemplo, “la mortalidad del trimestre no puede calcularse con precisión porque se detectaron registros duplicados en agosto”. Así se evita tomar decisiones sobre cifras que no reflejan lo ocurrido y se distingue una falla de registro de una variación real del proceso.
       Separador
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -340,25 +340,25 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Alcance
-                      td.texto-left Suministro de agua, medicamentos y retiro, bienestar del lote de ovejas y bioseguridad
+                      td.texto-left Suministro de agua, medicamentos y retiro, bienestar del lote de ovejas y bioseguridad.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Periodo
-                      td.texto-left Julio a septiembre de 2026
+                      td.texto-left Julio a septiembre de 2026.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Resultados
-                      td.texto-left Se realizaron 24 de las 26 revisiones semanales de bebederos programadas (92 %); la prevalencia de cojera en ovejas pasó de 5,0 % a 15,0 %; no hubo ingresos de animales sin registro
+                      td.texto-left Se realizaron 24 de las 26 revisiones semanales de bebederos programadas (92 %); la prevalencia de cojera en ovejas pasó de 5,0 % a 15,0 %; no hubo ingresos de animales sin registro.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Hallazgos
-                      td.texto-left Limpieza de bebederos registrada, pero no ejecutada según el procedimiento; tres de diez registros de tratamientos sin tiempo de retiro; dos cabras tratadas sin identificación de retiro; lote de concentrado con moho en la bodega
+                      td.texto-left Limpieza de bebederos registrada, pero no ejecutada según el procedimiento; tres de diez registros de tratamientos sin tiempo de retiro; dos cabras tratadas sin identificación de retiro; lote de concentrado con moho en la bodega.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Evidencias
-                      td.texto-left Registros de revisión y de tratamientos, fotografías de los bebederos con fecha, registro de leche descartada y notas de la inspección
+                      td.texto-left Registros de revisión y de tratamientos, fotografías de los bebederos con fecha, registro de leche descartada y notas de la inspección.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Limitaciones
-                      td.texto-left Se revisó una muestra de diez registros de tratamientos y se observó un solo ordeño
+                      td.texto-left Se revisó una muestra de diez registros de tratamientos y se observó un solo ordeño.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recomendaciones
-                      td.texto-left Revisar todos los tratamientos del último mes, investigar las causas de la cojera, reorganizar la limpieza de bebederos e incluir los hallazgos en el plan de mejora
+                      td.texto-left Revisar todos los tratamientos del último mes, investigar las causas de la cojera, reorganizar la limpieza de bebederos e incluir los hallazgos en el plan de mejora.
 
 </template>
 

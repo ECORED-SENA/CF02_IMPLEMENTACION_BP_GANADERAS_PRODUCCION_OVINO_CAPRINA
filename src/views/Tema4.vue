@@ -9,7 +9,7 @@
       p.mb-5 Los resultados de la evaluación y el seguimiento solo generan valor cuando se transforman en cambios que se mantienen en la rutina. El #[b mejoramiento continuo] organiza esa transformación mediante el plan de mejora, que relaciona cada problema con su causa, la acción, el responsable y el resultado esperado.
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.1 Concepto y principios del mejoramiento continuo
-      p.mb-5 El #[b mejoramiento continuo] es un proceso permanente de revisión y ajuste apoyado en evidencias. Parte de los resultados obtenidos, establece un cambio, comprueba su efecto y lo incorpora a la rutina si funciona, siguiendo el ciclo de planificación, ejecución, verificación y ajuste que orienta la gestión de los procesos. Puede originarse en una no conformidad, en una tendencia desfavorable o en una oportunidad de optimización. Sus principios se presentan a continuación:
+      p.mb-5 El #[b mejoramiento continuo] es un proceso permanente de revisión y ajuste apoyado en evidencias. Parte de los resultados obtenidos establece un cambio, comprueba su efecto y lo incorpora a la rutina si funciona, siguiendo el ciclo de planificación, ejecución, verificación y ajuste que orienta la gestión de los procesos. Puede originarse en una no conformidad, en una tendencia desfavorable o en una oportunidad de optimización. Sus principios se presentan a continuación:
       .bg-slider.mb-0
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -110,31 +110,31 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Hallazgo
-                      td.texto-left La limpieza de bebederos se registra como realizada, pero la inspección muestra que solo se agrega agua sin vaciar ni lavar
+                      td.texto-left La limpieza de bebederos se registra como realizada, pero la inspección muestra que solo se agrega agua sin vaciar ni lavar.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Causa confirmada
-                      td.texto-left La tarea coincide con el ordeño de la mañana, el encargado no dispone de tiempo y el cepillo no está en el área
+                      td.texto-left La tarea coincide con el ordeño de la mañana, el encargado no dispone de tiempo y el cepillo no está en el área.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Objetivo
-                      td.texto-left Que todos los bebederos inspeccionados sin aviso se encuentren limpios durante ocho semanas consecutivas
+                      td.texto-left Que todos los bebederos inspeccionados sin aviso se encuentren limpios durante ocho semanas consecutivas.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Acción
-                      td.texto-left Trasladar la limpieza a la tarde, ubicar cepillo y desinfectante en cada corral y registrar la limpieza al terminarla
+                      td.texto-left Trasladar la limpieza a la tarde, ubicar cepillo y desinfectante en cada corral y registrar la limpieza al terminarla.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Responsable
-                      td.texto-left Encargado de corrales; el administrador supervisa
+                      td.texto-left Encargado de corrales; el administrador supervisa.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recursos
-                      td.texto-left Dos cepillos, dos canecas con tapa para el desinfectante y una hora diaria del encargado
+                      td.texto-left Dos cepillos, dos canecas con tapa para el desinfectante y una hora diaria del encargado.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Plazo
-                      td.texto-left Inicio el 1 de octubre; verificación de eficacia el 30 de noviembre
+                      td.texto-left Inicio el 1 de octubre; verificación de eficacia el 30 de noviembre.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Indicador
-                      td.texto-left Bebederos limpios ÷ bebederos inspeccionados sin aviso × 100
+                      td.texto-left Bebederos limpios ÷ bebederos inspeccionados sin aviso × 100.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Evidencia de eficacia
-                      td.texto-left Ocho inspecciones semanales sin aviso con fotografías fechadas y registros diligenciados el mismo día
+                      td.texto-left Ocho inspecciones semanales sin aviso con fotografías fechadas y registros diligenciados el mismo día.
           p.mb-0 Además de las acciones de fondo, el plan incluye las correcciones inmediatas cuando el hallazgo representa un riesgo, y diferencia la ejecución del resultado. Haber comprado los cepillos demuestra avance, pero solo las inspecciones sin aviso permiten comprobar que el problema se resolvió.
           Separador
           #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -172,24 +172,24 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 1
-                      td.ajuste-border-tabla.texto-left Dos cabras tratadas sin identificación de retiro durante el ordeño
-                      td.texto-left Gravedad alta para la inocuidad y urgencia inmediata, porque la leche puede llegar al consumidor en el siguiente ordeño. Su corrección es rápida y de bajo costo
+                      td.ajuste-border-tabla.texto-left Dos cabras tratadas sin identificación de retiro durante el ordeño.
+                      td.texto-left Gravedad alta para la inocuidad y urgencia inmediata, porque la leche puede llegar al consumidor en el siguiente ordeño. Su corrección es rápida y de bajo costo.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 2
-                      td.ajuste-border-tabla.texto-left Lote de concentrado con moho en la bodega
-                      td.texto-left Riesgo de toxicidad para todo el rebaño que lo consume. La corrección (retirar el lote) es inmediata; la reparación del techo se programa como acción correctiva
+                      td.ajuste-border-tabla.texto-left Lote de concentrado con moho en la bodega.
+                      td.texto-left Riesgo de toxicidad para todo el rebaño que lo consume. La corrección (retirar el lote) es inmediata; la reparación del techo se programa como acción correctiva.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 3
-                      td.ajuste-border-tabla.texto-left Limpieza deficiente de bebederos
-                      td.texto-left Afecta a todo el rebaño y a un recurso esencial; aunque el daño no es inmediato, su impacto es amplio y la solución requiere pocos recursos
+                      td.ajuste-border-tabla.texto-left Limpieza deficiente de bebederos.
+                      td.texto-left Afecta a todo el rebaño y a un recurso esencial; aunque el daño no es inmediato, su impacto es amplio y la solución requiere pocos recursos.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 4
-                      td.ajuste-border-tabla.texto-left Aumento de la cojera en el lote de ovejas (15 %)
-                      td.texto-left Gravedad alta para el bienestar de nueve animales, pero requiere investigar las causas antes de definir la acción de fondo. Mientras tanto, los animales reciben atención veterinaria inmediata
+                      td.ajuste-border-tabla.texto-left Aumento de la cojera en el lote de ovejas (15 %).
+                      td.texto-left Gravedad alta para el bienestar de nueve animales, pero requiere investigar las causas antes de definir la acción de fondo. Mientras tanto, los animales reciben atención veterinaria inmediata.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 5
-                      td.ajuste-border-tabla.texto-left Demora de 20 minutos para consultar la historia de un animal
-                      td.texto-left No es un incumplimiento, sino una oportunidad de mejora; se programa cuando las acciones anteriores estén en ejecución
+                      td.ajuste-border-tabla.texto-left Demora de 20 minutos para consultar la historia de un animal.
+                      td.texto-left No es un incumplimiento, sino una oportunidad de mejora; se programa cuando las acciones anteriores estén en ejecución.
           p.mb-0 Este ejemplo muestra que el orden no depende solo de la facilidad de ejecución. Cuando una solución estructural requiere tiempo, como la investigación de la cojera, se aplican medidas temporales de protección y se programa la intervención definitiva. La justificación de la priorización se conserva para revisarla si cambian las condiciones o aparece nueva evidencia.
       Separador
       #t_4_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")

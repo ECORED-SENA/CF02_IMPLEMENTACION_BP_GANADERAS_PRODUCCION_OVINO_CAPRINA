@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Evaluación, seguimiento y mejoramiento de las Buenas Prácticas Ganaderas en la producción ovino-caprina',
+    Name: 'Evaluación, seguimiento y mejoramiento de las buenas prácticas ganaderas en la producción ovino-caprina',
     Description:
-      'El componente desarrolla la evaluación, el seguimiento y el mejoramiento de las Buenas Prácticas Ganaderas en una unidad ovino-caprina. El aprendiz interpretará evidencias, utilizará indicadores, reconocerá riesgos y contingencias y distinguirá correcciones de acciones correctivas y preventivas. A partir del análisis de causas, estructurará un plan con prioridades, responsables, recursos y plazos, y comprenderá cómo verificar su eficacia y documentar el cierre.',
+      'El componente desarrolla la evaluación, el seguimiento y el mejoramiento de las buenas prácticas ganaderas en una unidad ovino-caprina. El aprendiz interpretará evidencias, utilizará indicadores, reconocerá riesgos y contingencias y distinguirá correcciones de acciones correctivas y preventivas. A partir del análisis de causas, estructurará un plan con prioridades, responsables, recursos y plazos, y comprenderá cómo verificar su eficacia y documentar el cierre.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -226,7 +226,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/220601041_CF02_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -394,6 +394,44 @@ export default {
         'comprobación mediante evidencias de que una actividad, requisito o acción establecida ha sido cumplida.',
     },
   ],
+   referencias: [
+    {
+      referencia: 'Instituto Colombiano Agropecuario [ICA]. (2018). Resolución 20277 de 2018: Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción primaria de ovinos y caprinos.',
+      link: 'https://www.ica.gov.co/normatividad/normas-ica/resoluciones-oficinas-nacionales/2018/2018r20277',
+    },
+    {
+      referencia: 'Instituto Colombiano Agropecuario [ICA]. (2024). Resolución 16409 de 2024: Por la cual se establecen los requisitos para la certificación en Bienestar Animal en la producción primaria pecuaria y se dictan disposiciones relacionadas con las actividades de Inspección, Vigilancia y Control en Bienestar Animal.',
+      link: 'https://www.ica.gov.co/normatividad/normas-ica/resoluciones-oficinas-nacionales/2024/2024r00016409',
+    },
+    {
+      referencia: 'Instituto Colombiano Agropecuario [ICA]. (2025). Resolución 8452 de 2025: Por medio de la cual se modifica el parágrafo 2 del artículo 5, el numeral 6.4 del artículo 6 y el artículo 14 de la Resolución ICA N.° 00016409 de 2024.',
+      link: 'https://www.ica.gov.co/normatividad/normas-ica/resoluciones-oficinas-nacionales/2025/2025r0008452',
+    },
+    {
+      referencia: 'Instituto Colombiano Agropecuario [ICA]. (2026). Metodología para evaluar el bienestar animal en ovinos y caprinos (Versión 3.0).',
+      link: 'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/documentos/2025/meba-ovinos-y-caprinos.aspx',
+    },
+    {
+      referencia: 'Instituto Colombiano Agropecuario [ICA]. (s. f.-a). Forma 3-860 V.4: Lista de chequeo para la certificación en Buenas Prácticas Ganaderas a predios productores de ovinos y caprinos.',
+      link: 'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias.aspx',
+    },
+    {
+      referencia: 'Instituto Colombiano Agropecuario [ICA]. (s. f.-b). Grupo de Inocuidad en la Producción Pecuaria Primaria y Bienestar Animal: Normatividad y listas de chequeo BPG.',
+      link: 'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias.aspx',
+    },
+    {
+      referencia: 'Ministerio de Agricultura y Desarrollo Rural [MADR]. (2020). Resolución 136 de 2020: Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción en el sector agropecuario para las especies équidas, porcinas, ovinas y caprinas.',
+      link: '',
+    },
+    {
+      referencia: 'Organización Mundial de Sanidad Animal [OMSA]. (2024a). Código Sanitario para los Animales Terrestres. OMSA.',
+      link: '',
+    },
+    {
+      referencia: 'Organización Mundial de Sanidad Animal [OMSA]. (2024b). Normas de la OMSA sobre el bienestar animal. OMSA.',
+      link: '',
+    }
+  ],
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
@@ -410,13 +448,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Eliana Audrey Manchola Pérez',
+          nombre: 'Paola Andrea Tello Zambrano',
           cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Paola Alexandra Moya',
+          nombre: 'Paula Marcela Vidal Quintero',
           cargo: 'Evaluadora instruccional',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -471,6 +509,35 @@ export default {
         {
           nombre: 'German Acosta Ramos',
           cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Ricardo Oliveros Zambrano ',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
