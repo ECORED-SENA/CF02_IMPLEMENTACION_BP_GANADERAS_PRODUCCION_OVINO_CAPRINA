@@ -460,7 +460,7 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Juan José Calderón Gutierrez',
+          nombre: 'Fredy Fabian Ortiz Segura',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
